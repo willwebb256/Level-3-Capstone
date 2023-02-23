@@ -55,16 +55,10 @@ function MemeGenerator() {
       </div>
     );
   }
+  
+export default MemeGenerator
 
-
-export default App;
-
-
-
-
-
-
-
-
-
+  
+  
+  
 
